@@ -1,0 +1,3 @@
+0;MIT
+1;Stanford
+2;Harvard
